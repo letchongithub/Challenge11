@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+In this code, the db folder contains the database. Library contains the functions when user types in note. Public folder contains the the contents of the webpage. Routes folder contains how to connect the backend to the frontend of the code.
